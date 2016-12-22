@@ -10,7 +10,7 @@ class Publisher
 
   private
   def copy
-    puts %x( jekyll build )
+    puts %x( JEKYLL_ENV=production jekyll build )
     puts %x( git clone https://github.com/redtear1115/redtear1115.github.io.git _tmp)
     puts %x( rm -rf _tmp/* && cp -rf _site/* _tmp)
   end
