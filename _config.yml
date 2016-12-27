@@ -16,9 +16,10 @@
 title: Southern Light
 email: vfgcees@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ray's Technical Blog.
+  「信じたものは　都合のいい妄想を　繰り返し映し出す鏡　歌姫を止め　叩き付けるように叫ぶ・・・」
+  　＜最高速の別れの歌＞
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://redtear1115.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://redtear1115.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: redtear1115
 github_username:  redtear1115
 
