@@ -13,7 +13,51 @@ permalink: /about/
 * Graduated from NCNU on 2011, Dept of Information Management (Master)
 * Graduated from NSYSU on 2007, Dept of Management Information System (Bachelor)
 
-# Blog
+# My Skills
+* Ruby (Full time experience since Apr, 2016)
+  * Rails
+  * ActiveRecord
+  * ActionCable
+  * ActionMailer
+  * Sidekiq
+  * Devise
+  * Capistrano
+  * Redis
+  * Puma
+
+* Javascript
+  * React
+  * Reduxe
+
+* Softwares
+  * Nginx
+  * PostgreSQL
+  * MySQL
+* OS
+  * Crontab
+  * Monit
+  * Logrotate
+
+* SAP (4 years full time experience)
+  * Material Management
+    * Purchasing
+    * Material Movement
+  * IMG Settings
+    * Setup PO type
+    * Setup PR type
+    * Setup Release Strategy
+    * Setup Movemnet Type
+  * ABAP Programming
+    * Report
+    * Dialog
+    * BAPI
+    * BAdI
+    * Userexit
+    * Enhancement
+  * Smartform
+
+
+# My Blog
 * Language: English
 * Category
   * news, things about this blog
