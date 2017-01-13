@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Postgres Setup"
 date:   2016-12-22 11:00:00 +0800
 categories: deployment

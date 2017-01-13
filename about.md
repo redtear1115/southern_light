@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 # Me
 * Ray Lee
@@ -15,10 +16,7 @@ permalink: /about/
 
 # My Skills
 * Ruby (Full time experience since Apr, 2016)
-  * Rails
-  * ActiveRecord
-  * ActionCable
-  * ActionMailer
+  * Rails (ActiveRecord, ActionCable, ActionMailer)
   * Sidekiq
   * Devise
   * Capistrano

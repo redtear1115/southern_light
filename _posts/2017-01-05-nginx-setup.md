@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Nginx Setup"
 date:   2017-01-05 11:00:00 +0800
 categories: deployment

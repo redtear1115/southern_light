@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Future Plan for Jan, 2017"
 date:   2016-12-27 09:00:00 +0800
 categories: news
